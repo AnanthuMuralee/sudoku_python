@@ -2,5 +2,5 @@
 
 This is a python code for the game sudoku.
 
-#Working:
+Working:
 It finds the completed sudoku table for any sudoku input table.
